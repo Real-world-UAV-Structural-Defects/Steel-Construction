@@ -18,3 +18,8 @@ The examples below show representative UAV views from the dataset.
 ## Notes
 
 - No license has been assigned yet.
+- 
+## Organizer
+
+Kang Yang , email : kyang16866@gmail.com
+Ruoyu Chen , email : chenruoyu@just.edu.cn
